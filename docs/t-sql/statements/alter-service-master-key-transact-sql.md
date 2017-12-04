@@ -122,9 +122,9 @@ GO
 ```  
   
 ## <a name="see-also"></a>Consulte também  
- [RESTAURAR a chave MESTRA de serviço &#40; Transact-SQL &#41;](../../t-sql/statements/restore-service-master-key-transact-sql.md)   
- [CHAVE MESTRA de serviço de BACKUP &#40; Transact-SQL &#41;](../../t-sql/statements/backup-service-master-key-transact-sql.md)   
- [Hierarquia de criptografia](../../relational-databases/security/encryption/encryption-hierarchy.md)  
+ [Restauração da chave master de serviço &#40; Transact-SQL &#41;](../../t-sql/statements/restore-service-master-key-transact-sql.md)   
+ [Backup da chave master de serviço &#40; Transact-SQL &#41;](../../t-sql/statements/backup-service-master-key-transact-sql.md)   
+ [Hierarquia de encriptação](../../relational-databases/security/encryption/encryption-hierarchy.md)  
   
   
 
